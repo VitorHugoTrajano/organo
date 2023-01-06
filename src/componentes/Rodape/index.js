@@ -8,7 +8,7 @@ const Rodape = () => {
                 <a href='https://twitter.com/AluraOnline'><img src='/imagens/tw.png' alt=''/></a>
                 <a href='https://www.instagram.com/aluraonline'><img src='/imagens/ig.png' alt=''/></a>
             </div>
-            <img src='/imagens/logo.png' alt='' />
+            <img src='/imagens/Logo.png' alt='' />
             <p>Desenvolvido por Alura</p>
         </footer>
     )
